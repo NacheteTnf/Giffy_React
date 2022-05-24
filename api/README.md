@@ -1,0 +1,1 @@
+deno run --allow-net=:8080 --allow-read --allow-env server.ts --port=8080
